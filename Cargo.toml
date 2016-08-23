@@ -15,8 +15,6 @@ keywords = ["sdl", "sdl2", "networking", "internet", "sdl2_net"]
 
 readme = "README.md"
 
-[dependencies.sdl2]
-git = "https://github.com/AngryLawyer/rust-sdl2"
-
 [dependencies]
+sdl2 = "0.22.0"
 libc = "0.2.5"
